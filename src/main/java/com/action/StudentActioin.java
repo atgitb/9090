@@ -13,7 +13,10 @@ import com.service.StudentService;
 @Controller
 
 public class StudentActioin {
-	 
+
+
+
+	/*jijl*/
 	 @Autowired
 	 private StudentService  studentService;
 	 
